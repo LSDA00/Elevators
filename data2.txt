@@ -1,0 +1,24 @@
+1 10 11 4 2 3
+
+Elevator: 2 is not in service.
+Floor Location: 3
+Max Floor for Elevator: 8
+Toggled Elevator
+Elevator Request Received for Elevator 2
+Moving from Floor 3 to Floor 7
+Arrived at Floor 7.
+Toggled Elevator
+Elevator Request Received for Elevator 0
+Moving from Floor 1 to Floor 2
+Arrived at Floor 2.
+Elevator 1 is out of service
+Toggled Elevator
+Elevator: 0 is in service.
+Floor Location: 2
+Max Floor for Elevator: 50
+Elevator: 1 is in service.
+Floor Location: 1
+Max Floor for Elevator: 50
+Closest Elevator to Floor 4 is Elevator ID: 0
+Elevator Distance between Elevator 0 and 1 is 1 Floors.
+Total Elevators in Existance: 3
